@@ -1,0 +1,42 @@
+.bg-text {
+    background-color: #f4f4f4;
+    overflow: hidden;
+    padding: 20px 20px 100px 20px;
+    position: relative;
+    width: 100%;
+}
+
+
+div#homePage {
+    text-align: center;
+}
+
+button#share_hearts {
+    background-color: #5d439b;
+    color: white;
+    width: 90%;
+    font-size: 1.5rem;
+}
+
+button#share_hearts.activated{
+    background-color: rgb(123,95,191);
+}
+
+
+p#heartsID {
+    font-size: 2em;
+    margin: 1em 0;
+}
+
+div#heartId img {
+    width: 100%;
+}
+
+#top_heart{	
+}
+
+.title.title-left.header-item {
+    text-align: center;
+    font-size: 1.5em;
+}
+
